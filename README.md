@@ -23,14 +23,14 @@ Users should be able to:
 
 ### Screenshot
 
-(https://github.com/Ahmad-Kanj/Front-End-Mentor-Profile-card-component/blob/main/Screenshot_1.png)
+(https://github.com/Ahmad-Kanj/Frontend-Mentor-Profile-card-component/blob/main/Screenshot_1.png)
 
-![](https://github.com/Ahmad-Kanj/Front-End-Mentor-Profile-card-component/blob/main/Screenshot_2.png)
+![](https://github.com/Ahmad-Kanj/Frontend-Mentor-Profile-card-component/blob/main/Screenshot_2.png)
 
 ### Links
 
 - Solution URL:(https://github.com/Ahmad-Kanj/Frontend-Mentor-profile-card-component)
-- Live Site URL:(https://ahmad-kanj.github.io/Frontend-Mentor-profile-card-component/)
+- Live Site URL:(https://ahmad-kanj.github.io/Frontend-Mentor-Profile-card-component/)
 
 ### Built with
 
