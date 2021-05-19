@@ -23,7 +23,7 @@ Users should be able to:
 
 ### Screenshot
 
-(https://github.com/Ahmad-Kanj/Front-End-Mentor-Profile-card-component/blob/main/Screenshot_1.png)
+![](https://github.com/Ahmad-Kanj/Front-End-Mentor-Profile-card-component/blob/main/Screenshot_1.png =250*400)
 
 ![](https://github.com/Ahmad-Kanj/Front-End-Mentor-Profile-card-component/blob/main/Screenshot_2.png)
 
